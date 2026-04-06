@@ -8,7 +8,7 @@ This workflow automates that process. When a payment is marked as declined in Go
 
 **Workflow**
 
-payment-followup-automation.png
+<img width="996" height="307" alt="payment-followup-automation" src="https://github.com/user-attachments/assets/cf903c5e-4551-40a9-a961-ac540c9a6ebb" />
 
 
 **How It Works**
